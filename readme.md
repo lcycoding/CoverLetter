@@ -1,8 +1,12 @@
 # About Me
   **林哲宇 Lin Che Yu Frank**
+  
   NCTU Hsinchu, +886929820426
+  
   fk455290@gmail.com
+  
   lcycoding@gmail.com
+  
   lincheyu.cs05g@g2.nctu.edu.tw
 
 ## Personal Information
