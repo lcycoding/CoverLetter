@@ -1,12 +1,12 @@
 # About Me
   **林哲宇 Lin Che Yu Frank**
-  
+
   NCTU Hsinchu, +886929820426
-  
+
   fk455290@gmail.com
-  
+
   lcycoding@gmail.com
-  
+
   lincheyu.cs05g@g2.nctu.edu.tw
 
 ## Personal Information
@@ -65,7 +65,7 @@
 * Understanding : `Html5/CSS3/JavaScript, PHP, Python, Vue.js`
 * Basic : `Swift`
 * Framework knowledge : `Android, Laravel, Tensorflow`
-* Tools : `Git, Heroku, VS, Atom, Linux, macOS`
+* Tools : `Git, Heroku, VS, Atom, vim, Linux, macOS`
 
 ##### Certifications
 * **TOEIC 935 R440/L495**
@@ -78,14 +78,20 @@
     Weight training, Jogging, Computer gaming, Thinking
     Owns 128 Steam Games
 
-##### Seminar
+##### Projects
 * Web Projects : please refer to my [Github](https://github.com/lcycoding)
 * Currently Involved Projects
   * Sinica, NCTU Coop Elder Care Project
+    * Implementing Zenbo application to interact with elders
   * Asus, Zenbo Developer
-* Course Seminar
+  * iPave
+    * An Android App to collect all sensor's data and upload to the server which detects the anomaly road points
+  * NCTU NOL Server Management
+    * Including web server, virtual machine and Database
+    * Manager of NOL DataUpload web
+* Course Projects
   * Wafer Taking Machine in Program Design For Mechatronic Control System
   * Calvin DB Implementation in Cloud Database Course
   * Operating System Behavior Implement in UnixC and Cuda
-* Subject Seminar
+* Subject Project
   * Control system design of Ball cart balancing system
