@@ -5,32 +5,47 @@
 
   fk455290@gmail.com
 
-  lcycoding@gmail.com
-
   lincheyu.cs05g@g2.nctu.edu.tw
 
 ## Personal Information
-* Hard-working, detail-oriented student in Computer Science and Mechanical Engineering with ability to handle complex subject matter.
-* Excellent interpersonal skills: willing to help, and learn.
+* Hard-working, detail-oriented student in Computer Science and Mechanical Engineering with ability to handle complex subject matter
+* Excellent interpersonal skills: willing to help, and learn
 * Quick learner in any field of Computer Science and Hardware Spec
+* Focus on AI-related techniques
 
 ## Education
 
 ##### National Chiao Tung University
     Master Degree, major in Computer Science, Institute of Network Engineering
-    Graduation Expection : 2018 Aug.
+    Currently dropped out from NCTU
 
 ##### National Tsing Hua University
     Bachelor of Science, major in Power Mechanical Engineering, minor in Computer Science Engineering
+
 * Bachelor GPA : 3.69 / 4.3
+* Master GPA : 3.67 / 4.3
 * Relevant Coursework
   * BachelorCS `Operating System, Algorithms, Data Structure, Computational Theory, Digital Logic Design`
   * BachelorME `Program Design For Mechatronic, Control System, Machine Design`
-  * MasterCS `Cloud Database, Network Programming, IOT Application, Pattern Recognition`
-* Current Course
-  * `Augmented Reality and Virtual Reality, Big Data Analysis, Artificial Intelligent`
+  * MasterCS `Cloud Database, Network Programming, IOT Application, Pattern Recognition, Artificial Intelligence, Big Data Analysis`
 
 ## Work and Leadership Experience
+
+##### Alfred.Camera Machine Learning Engineer
+    Machine Learning Specialist for Vision Algorithms 2018.Jan~Current
+    * Working on object detection for mobile devices
+
+    * Building and evaluating deep learning models for classification / object detection / image segmentation
+
+##### IBM Software Intern
+    Software Intern in Nangang branch 2017.Jul~2017.Dec
+    * Solving product issues independently
+
+    * Enhance product's test coverage up to 50%
+
+    * Propose a business campaign - Blue Planet, with the intern group.
+
+    * Rehire as a long-term intern during Sep-Dec 2017, working on intelligence chatbot.
 
 ##### AMD Summer Co-op Intern
     Intern student 2014.Jul~2014.Aug
@@ -39,18 +54,6 @@
     * Benchmark testing high-end GPU for AMD Taiwan Branch
 
     * Individual report to my BU head in two months
-
-##### Power Mechanical Engineering Summer Camp
-    Leader of Education 2013.Jul~2013.Aug
-    * Led a team of 10 members to present easily-known prior knowledge for college to senior high students.
-
-    * Designed an educational experiment of electronic
-
-##### Power Mechanical Engineering Student Association
-    Chief Information Officer 2013.Sep~2014.Jun
-    * Organized monthly magazine of the department for improving the circulation of student affairs.
-
-    * Organized the promotion event of NTHU for PME department, introducing educational experiment to senior high students.
 
 ## Skills, Activities & Interests
 
@@ -61,18 +64,15 @@
     Basic in Japanese
 
 ##### Tech skills
-* Advanced : `C/C++, Java`
-* Understanding : `Html5/CSS3/JavaScript, PHP, Python, Vue.js`
+* Advanced : `Java, Python`
+* Understanding : `Html5/CSS3/JavaScript, PHP, C/C++`
 * Basic : `Swift`
-* Framework knowledge : `Android, Laravel, Tensorflow`
-* Tools : `Git, Heroku, VS, Atom, vim, Linux, macOS`
+* Framework knowledge : `Android, Laravel, Tensorflow, PyTorch`
+* Tools : `Git, VS, Atom, vim, Google Cloud Platform, Linux, macOS`
 
 ##### Certifications
 * **TOEIC 935 R440/L495**
 * National Science Council Research Scholarship
-
-##### Activities
-    Student Association, Science Service Club, HP codewars
 
 ##### Interests
     Weight training, Jogging, Computer gaming, Thinking
@@ -80,7 +80,7 @@
 
 ##### Projects
 * Web Projects : please refer to my [Github](https://github.com/lcycoding)
-* Currently Involved Projects
+* Involved Projects During Master
   * Sinica, NCTU Coop Elder Care Project
     * Implementing Zenbo application to interact with elders
   * Asus, Zenbo Developer
